@@ -1,0 +1,108 @@
+[15:11:17] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:11:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:11:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:11:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:11:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:11:17] [main/INFO]: Loaded 0 recipes
+[15:11:17] [main/INFO]: Loaded 0 advancements
+[15:11:19] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_191]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_191]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_191]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_191]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_191]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_191]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_191]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_191]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_191]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_191]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_191]
+	at so$2.run(SourceFile:110) [server.jar:?]
+[15:11:19] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[15:11:19] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[15:11:19] [Server thread/INFO]: Loading properties
+[15:11:21] [Server thread/INFO]: Default game type: SURVIVAL
+[15:11:21] [Server thread/INFO]: Generating keypair
+[15:11:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:11:23] [Server thread/INFO]: Using default channel type
+[15:11:30] [Server thread/INFO]: Preparing level "world"
+[15:11:30] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+[15:11:30] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:11:32] [Server thread/INFO]: Loaded 524 recipes
+[15:11:33] [Server thread/INFO]: Loaded 571 advancements
+[15:11:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:11:51] [Server thread/INFO]: Preparing spawn area: 0%
+[15:11:52] [Server thread/INFO]: Preparing spawn area: 0%
+[15:11:53] [Server thread/INFO]: Preparing spawn area: 0%
+[15:11:54] [Server thread/INFO]: Preparing spawn area: 0%
+[15:11:55] [Server thread/INFO]: Preparing spawn area: 0%
+[15:11:56] [Server thread/INFO]: Preparing spawn area: 0%
+[15:11:57] [Server thread/INFO]: Preparing spawn area: 0%
+[15:11:58] [Server thread/INFO]: Preparing spawn area: 4%
+[15:11:59] [Server thread/INFO]: Preparing spawn area: 4%
+[15:12:00] [Server thread/INFO]: Preparing spawn area: 4%
+[15:12:00] [Server thread/INFO]: Preparing spawn area: 8%
+[15:12:01] [Server thread/INFO]: Preparing spawn area: 8%
+[15:12:02] [Server thread/INFO]: Preparing spawn area: 12%
+[15:12:03] [Server thread/INFO]: Preparing spawn area: 12%
+[15:12:04] [Server thread/INFO]: Preparing spawn area: 16%
+[15:12:05] [Server thread/INFO]: Preparing spawn area: 16%
+[15:12:05] [Server thread/INFO]: Preparing spawn area: 20%
+[15:12:07] [Server thread/INFO]: Preparing spawn area: 20%
+[15:12:07] [Server thread/INFO]: Preparing spawn area: 24%
+[15:12:08] [Server thread/INFO]: Preparing spawn area: 24%
+[15:12:09] [Server thread/INFO]: Preparing spawn area: 28%
+[15:12:10] [Server thread/INFO]: Preparing spawn area: 28%
+[15:12:11] [Server thread/INFO]: Preparing spawn area: 32%
+[15:12:12] [Server thread/INFO]: Preparing spawn area: 32%
+[15:12:13] [Server thread/INFO]: Preparing spawn area: 36%
+[15:12:14] [Server thread/INFO]: Preparing spawn area: 36%
+[15:12:14] [Server thread/INFO]: Preparing spawn area: 40%
+[15:12:15] [Server thread/INFO]: Preparing spawn area: 40%
+[15:12:16] [Server thread/INFO]: Preparing spawn area: 44%
+[15:12:17] [Server thread/INFO]: Preparing spawn area: 44%
+[15:12:17] [Server thread/INFO]: Preparing spawn area: 48%
+[15:12:18] [Server thread/INFO]: Preparing spawn area: 48%
+[15:12:19] [Server thread/INFO]: Preparing spawn area: 52%
+[15:12:20] [Server thread/INFO]: Preparing spawn area: 52%
+[15:12:21] [Server thread/INFO]: Preparing spawn area: 52%
+[15:12:21] [Server thread/INFO]: Preparing spawn area: 56%
+[15:12:22] [Server thread/INFO]: Preparing spawn area: 56%
+[15:12:23] [Server thread/INFO]: Preparing spawn area: 56%
+[15:12:23] [Server thread/INFO]: Preparing spawn area: 60%
+[15:12:24] [Server thread/INFO]: Preparing spawn area: 60%
+[15:12:25] [Server thread/INFO]: Preparing spawn area: 60%
+[15:12:25] [Server thread/INFO]: Preparing spawn area: 64%
+[15:12:26] [Server thread/INFO]: Preparing spawn area: 64%
+[15:12:27] [Server thread/INFO]: Preparing spawn area: 64%
+[15:12:28] [Server thread/INFO]: Preparing spawn area: 68%
+[15:12:29] [Server thread/INFO]: Preparing spawn area: 68%
+[15:12:30] [Server thread/INFO]: Preparing spawn area: 68%
+[15:12:31] [Server thread/INFO]: Preparing spawn area: 72%
+[15:12:32] [Server thread/INFO]: Preparing spawn area: 72%
+[15:12:33] [Server thread/INFO]: Preparing spawn area: 72%
+[15:12:33] [Server thread/INFO]: Preparing spawn area: 76%
+[15:12:34] [Server thread/INFO]: Preparing spawn area: 76%
+[15:12:35] [Server thread/INFO]: Preparing spawn area: 80%
+[15:12:36] [Server thread/INFO]: Preparing spawn area: 80%
+[15:12:37] [Server thread/INFO]: Preparing spawn area: 84%
+[15:12:38] [Server thread/INFO]: Preparing spawn area: 84%
+[15:12:39] [Server thread/INFO]: Preparing spawn area: 88%
+[15:12:40] [Server thread/INFO]: Preparing spawn area: 88%
+[15:12:41] [Server thread/INFO]: Preparing spawn area: 88%
+[15:12:41] [Server thread/INFO]: Preparing spawn area: 92%
+[15:12:42] [Server thread/INFO]: Preparing spawn area: 92%
+[15:12:43] [Server thread/INFO]: Preparing spawn area: 92%
+[15:12:43] [Server thread/INFO]: Preparing spawn area: 96%
+[15:12:44] [Server thread/INFO]: Preparing spawn area: 96%
+[15:12:45] [Server thread/INFO]: Preparing spawn area: 96%
+[15:12:45] [Server thread/INFO]: Preparing spawn area: 100%
+[15:12:45] [Server thread/INFO]: Time elapsed: 54833 ms
+[15:12:45] [Server thread/INFO]: Done (76.339s)! For help, type "help"
+[15:12:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[15:13:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9696ms or 193 ticks behind
+[15:16:13] [Server thread/INFO]: Unknown command
+[15:16:13] [Server thread/INFO]: java -Xms1G<--[HERE]
+[15:16:19] [Server thread/INFO]: Unknown command
+[15:16:19] [Server thread/INFO]: f$<--[HERE]
